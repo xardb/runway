@@ -1,0 +1,11 @@
+ *
+#first-page{
+    display: flex;
+    flex-direction: row;
+}
+
+.fp-img {
+    width: 628px;
+    height: 491px;
+    background-image: url(images/hero_min\ 1.png) ;
+}
